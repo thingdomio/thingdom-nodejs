@@ -1,0 +1,18 @@
+{
+  "name": "thingdom",
+  "version": "0.0.0",
+  "description": "The official node js package for the Thingdom API.",
+  "main": "thingdom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thingdom",
+    "mobile",
+    "feed",
+    "push",
+    "notificatons"
+  ],
+  "author": "Joel Levandoski <joel.levandoski@gmail.com>",
+  "license": "MIT"
+}
