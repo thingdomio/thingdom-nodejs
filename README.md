@@ -48,7 +48,7 @@ var thingdom = new Thingdom( 'YOUR_API_SECRET', function( result ) {
 
 ```
 
-## Ideas for Library Usage
+## Ideas for Module Usage
 
 1. Programmatically trigger push notifications, feed messages, and real-time status updates from your Node.js app.
 2. Remotely monitor any interaction with your Node.js application, Express server, etc.
