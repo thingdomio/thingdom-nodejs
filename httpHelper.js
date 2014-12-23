@@ -3,7 +3,7 @@
  */
 var https = require( 'https' );
 
-var url = { host: 'api.thingdom.io', path: '/1.3' };
+var url = { host: 'api.thingdom.io', path: '/1.1' };
 var requestCounter = 0;
 
 /**
