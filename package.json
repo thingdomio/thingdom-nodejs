@@ -1,10 +1,14 @@
 {
   "name": "thingdom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The official node js package for the Thingdom API.",
   "main": "thingdom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thingdomio/thingdomio-nodejs.git"
   },
   "keywords": [
     "thingdom",
