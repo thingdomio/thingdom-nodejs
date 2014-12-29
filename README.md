@@ -1,7 +1,7 @@
 Thingdom Node.js Module
 ===========
 
-Node.js module for v1.1 of the [Thingdom.io API](https://api.thingdom.io/1.1).
+Node.js module for v1.1 of the [Thingdom.io API](https://thingdom.io/).
 
 ## What is Thingdom?
 
