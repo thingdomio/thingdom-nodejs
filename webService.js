@@ -4,7 +4,7 @@
 var HttpHelper = require( './httpHelper' ).HttpHelper;
 
 var httpHelper = null;
-var deviceSecret = 'nodejs';
+var deviceSecret = 'none';
 var apiSecret = '';
 var applicationToken = '';
 
