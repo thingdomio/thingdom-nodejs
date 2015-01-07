@@ -1,6 +1,6 @@
 {
   "name": "thingdom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The official node js package for the Thingdom API.",
   "main": "thingdom.js",
   "scripts": {
